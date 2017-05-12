@@ -12,7 +12,7 @@ Multi-Services Platform</br>
   </dd>
 
 </dt>  
-<dt>USSD-Codes</br>
-  Ussd Codes List For All Networks Or Operators</br>
-</dt>
+<dt>USSD-Codes</br></dt>
+  <dd>Ussd Codes List For All Networks Or Operators</br>
+</dd>
 </dl>
