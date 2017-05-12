@@ -3,14 +3,14 @@ Multi-Services Platform</br>
 
 <dl>
 <dt>Top-UP Service</br>
-  <ul>
-  <li>New Feature: Country independent Platform </br>
+
+  <dd>New Feature: Country independent Platform </br>
     Adding DZ</br>
-  </li>
-  <li>New Feature: Hardware Independent Platform</br>
+  </dd>
+  <dd>New Feature: Hardware Independent Platform</br>
     Adding IQSim</br>
-  </li>
-  </ul>
+  </dd>
+
 </dt>  
 <dt>USSD-Codes</br>
   Ussd Codes List For All Networks Or Operators</br>
