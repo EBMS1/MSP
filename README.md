@@ -8,9 +8,10 @@ Multi-Services Platform</br>
     Adding DZ</br>
   </li>
   <li>New Feature: Hardware Independent Platform</br>
-    Adding IQSim</br>
+    Adding IQSim
   </li>
   </ul>
+  </br>
 
   
 <li>USSD-Codes</br></dt>
