@@ -6,7 +6,8 @@ Multi-Services Platform</br>
   <ul>
   <li>New Feature: Country independent Platform </br>
     Adding DZ</br>
-  New Feature: Hardware Independent Platform</br>
+  </li>
+  <li>New Feature: Hardware Independent Platform</br>
     Adding IQSim</br>
   </li>
   </ul>
