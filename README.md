@@ -1,19 +1,19 @@
 # MSP
 Multi-Services Platform</br>
 
-<dl>
-<dt>Top-UP Service</br>
+<ul>
+Top-UP Service</br>
   <ul>
-  <dd>New Feature: Country independent Platform </br>
+  <li>New Feature: Country independent Platform </br>
     Adding DZ</br>
-  </dd>
-  <dd>New Feature: Hardware Independent Platform</br>
+  </li>
+  <li>New Feature: Hardware Independent Platform</br>
     Adding IQSim</br>
-  </dd>
+  </li>
   </ul>
 
-</dt>  
-<dt>USSD-Codes</br></dt>
-  <dd>Ussd Codes List For All Networks Or Operators</br>
-</dd>
-</dl>
+  
+<li>USSD-Codes</br></dt>
+  Ussd Codes List For All Networks Or Operators</br>
+</li>
+</ul>
