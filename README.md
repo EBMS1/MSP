@@ -2,6 +2,7 @@
 Multi-Services Platform</br>
 
 <ul>
+<li>Platform refactoring: PHP7.1 and Zend Framework 3</li></br>
 <li>Top-UP Service</li></br>
   <ul>
   <li>New Feature: Country independent Platform </br>
